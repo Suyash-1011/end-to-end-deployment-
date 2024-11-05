@@ -141,8 +141,3 @@ Project Maintainer - Krishna Ik
 
 ```
 
-### Additional Notes
-- **Modify as Needed**: Feel free to adjust any sections, add more details, or include more images/screenshots.
-- **Add More Details**: Include specific instructions or examples if certain features require more detailed explanations.
-
-Would you like me to make any specific changes or include more information?
